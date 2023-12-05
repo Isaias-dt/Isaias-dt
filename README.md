@@ -1,7 +1,7 @@
-<img src="wallpaper-peixe-preso.jpg" title="Peixe no aquário" alt="Peixe no aquário" width="100%" height="500px" align="rigth"/>
-
 # Olá 👋,  Eu sou o Isaias!
 # Seja bem vindo(a) ao meu GitHub!
+
+<img src="gato-binary.gif" width="220px" height="200px" align="right"/>
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistema.
 - ❤ Tecnologia, Games, Anime, filmes, Basquete.
@@ -41,6 +41,6 @@
 <hr/>
 
 <div align = "left">
-<img height = "250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaias-dt&show_icons=true&theme=transparent&count_private=true&locale=pt-br"/>
-<img height = "250em" src="https://github-readme-stats.vercel.app/api?username=Isaias-dt&show_icons=true&show_icons=true&theme=transparent&count_private=true&locale=pt-br"/>
+  <img height = "250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaias-dt&show_icons=true&theme=transparent&count_private=true&locale=pt-br"/>
+  <img height = "250em" src="https://github-readme-stats.vercel.app/api?username=Isaias-dt&show_icons=true&show_icons=true&theme=transparent&count_private=true&locale=pt-br"/>
 </div>
