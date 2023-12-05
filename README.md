@@ -41,6 +41,6 @@
 <hr/>
 
 <div align = "left">
-<img height = "280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaias-dt&show_icons=true&theme=transparent&count_private=true&locale=pt-br"/>
-<img height = "280em" src="https://github-readme-stats.vercel.app/api?username=Isaias-dt&show_icons=true&show_icons=true&theme=transparent&count_private=true&locale=pt-br"/>
+<img height = "250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaias-dt&show_icons=true&theme=transparent&count_private=true&locale=pt-br"/>
+<img height = "250em" src="https://github-readme-stats.vercel.app/api?username=Isaias-dt&show_icons=true&show_icons=true&theme=transparent&count_private=true&locale=pt-br"/>
 </div>
