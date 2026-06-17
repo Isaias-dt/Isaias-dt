@@ -3,8 +3,8 @@
 
 <img src="gato-binary.gif" width="220px" height="200px" align="right"/>
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistema.
-- ❤ Tecnologia, Games, Anime, filmes, Basquete.
+- 🎓 Formado em Análise e Desenvolvimento de Sistema.
+- ❤ Tecnologia, Games, Anime, filmes, Séries, Livros, Basquete.
 - 👨‍💻 Objetivo FullStack.
 
 <hr/>
